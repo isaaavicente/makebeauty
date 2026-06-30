@@ -54,4 +54,4 @@ tutoriais de maquiagens
             </div>
 
             <div class="step-card">
-                <div class="step-num
+                <div class="step-num   
